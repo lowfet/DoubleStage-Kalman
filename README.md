@@ -1,4 +1,4 @@
-## The implementations of Double-Stage Kalman ##
+## The implementations of Double-Stage Kalman V1.0 ##
 
 The code is the implementations of Double-Stage Kalman, and the theory is from the paper named "A Double-Stage Kalman Filter for Orientation Tracking With an Integrated Processor in 9-D IMU"
 
